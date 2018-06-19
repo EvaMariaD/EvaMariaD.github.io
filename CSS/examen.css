@@ -1,0 +1,43 @@
+.div{
+    width: 230px; 
+    text-align : justify;
+    
+    }
+  
+  .color{
+    font-weight: bold;
+  }
+  .clase1{
+     margin-left: 50px;
+     margin-top: 10px;
+     margin-right: 10px;
+    }
+   .body{
+   margin-top: 60px;
+   width: 900;
+   height: 1100;
+   border-left: blue 10px dotted;
+    border-right: blue  10px dotted;
+   
+  }
+  .div1{
+    width: 300;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: blueviolet;
+    float: left;
+  }
+  .div2{
+    width: 300;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: aqua;
+    float: left;
+  }
+  .div11{
+     background-color: pink;
+
+     }
+    .img-mediana{
+       
+    }
